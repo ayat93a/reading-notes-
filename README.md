@@ -5,7 +5,7 @@ This site will resnder the summary of the rasding tasks for Python 401 course.
 # *Code 301 - Intermediate Software Development*
 # *Code 401 - Advanced Software Development*
 ## **Terminal operation**
-##   The Command Line
+###   The Command Line
 - What is it?
 The command line, or the terminal, is a Character User Interface (CUI), it is a text-based system where You can type commands by the keyboard.
 The command line typically presents you with a prompt. 
@@ -14,7 +14,7 @@ When you type your command and press enter to run your command the output will a
 - how do I get to one?
 in my os , Windows, the terminal is Windows PowerShell
 
-## Basic Navigation
+### Basic Navigation
 there is a list of navigation commands to navigate through the directorires and determine the working location.
 1. Print Working Directory (pwd).
  tells me what my current working directory is. As you're moving around, it can be easy to lose track of where you are at which maybe sometimes lead you to clone some repo for example or make some edit in the wrong directory.
@@ -32,7 +32,7 @@ there is a list of navigation commands to navigate through the directorires and 
 4. shourtcuts 
 i prefer to use the upper arrow to navigate command from the history commands and to usw tab to auto completation of the directory name.
 
-## More About Files.
+### More About Files.
 1. Theories about linux system 
 2. everything is file
 3. extensionless system
@@ -45,23 +45,23 @@ If the file or directory's name begins with a . (full stop) then it is considere
 To make a file or directory hidden all you need to do is create the file or directory with it's name beginning with a . or rename it to be as such. Likewise you may rename a hidden file to remove the . and it will become unhidden.
 to show the hidden files use ls -a command.
 
-## Manual Pages.
+### Manual Pages.
 The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept.
 - to  invoke the manual page ==>  man
 - to search on the Manual pages ==> man -k <search>
 
-## File Manipulation
-1- Making a Directory ==> mkdir
+### File Manipulation
+1. Making a Directory ==> mkdir
  mkdir -p ==> tells mkdir to make parent directories as needed
  mkdir -v ==> makes mkdir tell us what it is doing
-2- Removing a Directory ==> rmdir 
+2. Removing a Directory ==> rmdir 
 a directory must be empty before it may be removed 
 also rmdir support -p and -v
-3- Creating a Blank File ==> touch
+3. Creating a Blank File ==> touch
 create a file automatically if we refer to it and it does not exist. 
-4- Copying a File or Directory ==> cp
-5- Moving a File or Directory ==>  mv 
-6- Renaming Files and Directories ==> mv
+4. Copying a File or Directory ==> cp
+5. Moving a File or Directory ==>  mv 
+6. Renaming Files and Directories ==> mv
 provide a new name for the file or directory and as part of the move it will also renamed.
-7- Removing a File (and non empty Directories) ==> rm 
+7. Removing a File (and non empty Directories) ==> rm 
 if not empty ==> rm -r
