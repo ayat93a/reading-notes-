@@ -18,9 +18,9 @@ _____
 
 # Bias Self-Assessment
 My score was 82 out of 120 which mean that i made some progress in this area but still have room to grow. 
-Which of the areas is your strongest? BIAS AND IDENTITY
-Which of the areas is your weakest? EFFECTIVE COURAGE
-Which of the areas will you focus on in 
+- Which of the areas is your strongest? BIAS AND IDENTITY
+- Which of the areas is your weakest? EFFECTIVE COURAGE
+- Which of the areas will you focus on in 
 the coming weeks and beyond? EFFECTIVE COURAGE and FOUR WAYS TO ACT
 
 
