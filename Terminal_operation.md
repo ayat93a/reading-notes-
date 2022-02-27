@@ -59,3 +59,5 @@ create a file automatically if we refer to it and it does not exist.
 provide a new name for the file or directory and as part of the move it will also renamed.
 7. Removing a File (and non empty Directories) ==> rm 
 if not empty ==> rm -r
+
+[Back](./README.md)

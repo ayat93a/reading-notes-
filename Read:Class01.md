@@ -1,5 +1,5 @@
 # Pain and Suffering
-With No Pain there is No Gain
+With No Pain there is No Gain. 
 Pain is nessecary for big dream, suffer is just suffer.
 I have 10 weeks to can achive my gole in being a *WEB DEVELOPER* and can complete my first project in *Artificial Intelligence*
 
@@ -66,3 +66,5 @@ ___
 2. [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y&t=72s)
 3. [MIT Big Notation Lecture](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
 4. [geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+
+[Back](./README.md)

@@ -50,3 +50,5 @@ WHERE condition;`
 | 16 |[Exercise 16](./SQLBOLT/16.PNG) | 
 | 17 | [Exercise 17](./SQLBOLT/17.2.PNG)| 
 | 18 |[Exercise 18](./SQLBOLT/18.2.PNG) |
+
+[Back](./README.md)
