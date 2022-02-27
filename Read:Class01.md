@@ -47,11 +47,15 @@ In most cases, we performed performance analysis to assess and evaluate the wors
 Any algorithm's quickest feasible running time is O(1), also known as Constant Running Time. In this situation, regardless of the quantity of the input, the algorithm takes the same amount of time to run. This is the optimal algorithm runtime, however it is seldom achieved.
 In practice, an algorithm's performance (Runtime) is determined by n, which refers to the amount of the input or the number of operations necessary for each input item.
 From best to worst performance (Running Time Complexity), the algorithms are categorised as follows:
+___
 ![](./readindC01/Capture.PNG)
+
 Where, n is the input size and c is a positive constant. 
+___
 ![](./readindC01/Capture2.PNG)
 
 ## Mathematical Examples of Runtime Analysis: 
+
 ![](./readindC01/Capture0.PNG)
 
 
