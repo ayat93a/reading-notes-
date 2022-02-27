@@ -1,8 +1,8 @@
 # ***Reading Notes***
 This site will resnder the summary of the rasding tasks for Python 401 course.
 ## *Code 102 - Intro to Software Development*
-- [Code Challanges/JS](https://github.com/ayat93a/solving-problem)
-- [Code Challanges /JS](https://github.com/ayat93a/Prep-Challenges)
+- [Code Challenges/JS](https://github.com/ayat93a/solving-problem)
+- [Code Challenges /JS](https://github.com/ayat93a/Prep-Challenges)
 - [Movie Library-Backend with node.js , postgressSQL and API](https://github.com/ayat93a/Movies-Library)
 - [Movie Library -Frontend with React](https://github.com/ayat93a/Netflix-Clone)
 ___
