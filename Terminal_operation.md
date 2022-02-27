@@ -60,4 +60,4 @@ provide a new name for the file or directory and as part of the move it will als
 7. Removing a File (and non empty Directories) ==> rm 
 if not empty ==> rm -r
 
-[Back](./README.md)
+[Back to main](./README.md)

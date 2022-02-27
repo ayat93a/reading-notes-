@@ -67,4 +67,4 @@ ___
 3. [MIT Big Notation Lecture](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
 4. [geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 
-[Back](./README.md)
+[Back to main](./README.md)
