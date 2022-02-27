@@ -14,10 +14,10 @@ ___
 ## *Code 401 - Advanced Software Development*
 | Task  | Link |
 |----------|:-------------:|
-| Terminal                      |[TerminalOperation_Notes](./Terminal_operation.md)|
-| SQL                           | [SQL_Notes](./SQL.md)|
-| Mindset                       | [Mindset_Notes](./Mindset.md)|
-|Read: Class 01|[Read: Class 01](./Read:Class01.md)
+| Terminal  |[TerminalOperation_Notes](./Terminal_operation.md)|
+| SQL      | [SQL_Notes](./SQL.md)|
+| Mindset     | [Mindset_Notes](./Mindset.md)|
+|Read: Class 01|[Class 01](./Read:Class01.md)
 ---
 
 
