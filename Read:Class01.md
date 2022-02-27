@@ -6,7 +6,7 @@ I have 10 weeks to can achive my gole in being a *WEB DEVELOPER* and can complet
 # Beginners Guide to Big O
 
 ## What big O notation is
-___
+
 Big O notation is a symbology used to express the asymptotic behavior of functions in complexity theory, computer science, and mathematics. It essentially shows you how quickly a function increases or diminishes, The letter `O` is used because the rate of growth of a
 function is also called its order.
 ### Illistraion example 
@@ -22,7 +22,7 @@ For a problem of size N:
 - a quadratic-time algorithm is "order N squared": O(N^2)
 
 ## Why O notation 
-___
+
 What is the efficiency of an algorithm or a line of code? Efficiency encompasses a wide range of resources, including: 
 -  CPU (processing) time 
 -  memory utilization
