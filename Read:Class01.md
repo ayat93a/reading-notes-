@@ -31,7 +31,7 @@ What is the efficiency of an algorithm or a line of code? Efficiency encompasses
 All are significant, but we'll focus on time complexity (CPU usage).
 The Performance is measured by how much time/memory/disk/... is actually used when a program is run. This depends on the machine, compiler, etc. as well as the code Complexity.
 Complexity mainly mean what happens as the size of the problem being solved gets larger? and that what the reason for why the big O notation are measured.
-___
+
 
 ## How to calculate big O notation
 *We express complexity using big-O notation.* ; Big O is a term that indicates the worst-case scenario and may be used to describe the amount of time an algorithm takes to execute or the amount of space it takes up (in memory or on disk).
@@ -56,7 +56,7 @@ Where, n is the input size and c is a positive constant.
 
 
 
-
+___
 #### Referances
 1. [Programming with Mosh](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 2. [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y&t=72s)
