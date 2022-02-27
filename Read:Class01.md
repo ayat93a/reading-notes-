@@ -32,12 +32,27 @@ All are significant, but we'll focus on time complexity (CPU usage).
 The Performance is measured by how much time/memory/disk/... is actually used when a program is run. This depends on the machine, compiler, etc. as well as the code Complexity.
 Complexity mainly mean what happens as the size of the problem being solved gets larger? and that what the reason for why the big O notation are measured.
 ___
-___
 
 ## How to calculate big O notation
 *We express complexity using big-O notation.* ; Big O is a term that indicates the worst-case scenario and may be used to describe the amount of time an algorithm takes to execute or the amount of space it takes up (in memory or on disk).
 
-## The importance of big O notation
+The following is the general step-by-step process for Big-O runtime analysis:#Ref 4
+- Figure out what the input is and what n represents.
+- Express the maximum number of operations, the algorithm performs in terms of n.
+- Eliminate all excluding the highest order terms.
+- Remove all the constant factors. 
+*For any algorithm, the Big-O analysis should be straightforward as long as we correctly identify the operations that are dependent on n, the input size.*
+### Runtime Analysis of Algorithms 
+In most cases, we performed performance analysis to assess and evaluate the worst-case theoretical running time complexities of algorithms.
+Any algorithm's quickest feasible running time is O(1), also known as Constant Running Time. In this situation, regardless of the quantity of the input, the algorithm takes the same amount of time to run. This is the optimal algorithm runtime, however it is seldom achieved.
+In practice, an algorithm's performance (Runtime) is determined by n, which refers to the amount of the input or the number of operations necessary for each input item.
+From best to worst performance (Running Time Complexity), the algorithms are categorised as follows:
+![](./readindC01/Capture.PNG)
+Where, n is the input size and c is a positive constant. 
+![](./readindC01/Capture2.PNG)
+
+## Mathematical Examples of Runtime Analysis: 
+![](./readindC01/Capture0.PNG)
 
 
 
@@ -46,3 +61,4 @@ ___
 1. [Programming with Mosh](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 2. [Web Dev Simplified](https://www.youtube.com/watch?v=itn09C2ZB9Y&t=72s)
 3. [MIT Big Notation Lecture](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
+4. [geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
