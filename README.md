@@ -17,7 +17,8 @@ ___
 | Terminal  |[TerminalOperation_Notes](./Terminal_operation.md)|
 | SQL      | [SQL_Notes](./SQL.md)|
 | Mindset     | [Mindset_Notes](./Mindset.md)|
-|Read: Class 01|[Class 01](./Read:Class01.md)
+|Read: Class 01|[Class 01](./Read:Class01.md)|
+|Read: Class 03|[Class 03](./ReadClass03.md)|
 ---
 
 
