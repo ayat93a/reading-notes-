@@ -17,11 +17,15 @@ ___
 | Terminal  |[TerminalOperation_Notes](./Terminal_operation.md)|
 | SQL      | [SQL_Notes](./SQL.md)|
 | Mindset     | [Mindset_Notes](./Mindset.md)|
+|`if __name__ == __main__` |[if __name__ == __main__](./if __name__ == __main__.md)
+
+
+___
+# *Class Read *
+| Task  | Link |
+|----------|:-------------:|
 |Read: Class 01|[Class 01](./Read:Class01.md)|
 |Read: Class 03|[Class 03](./ReadClass03.md)|
----
-
-
 
 
 
