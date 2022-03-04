@@ -17,7 +17,7 @@ ___
 | Terminal  |[TerminalOperation_Notes](./Terminal_operation.md)|
 | SQL      | [SQL_Notes](./SQL.md)|
 | Mindset     | [Mindset_Notes](./Mindset.md)|
-|`if __name__ == __main__` |[if __name__ == __main__](./if __name__ == __main__.md)
+|`if __name__ == __main__` | [special variables](./special%20_variables.md)|
 
 
 ___
