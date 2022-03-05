@@ -64,5 +64,5 @@ In pytest, you define fixtures using a combination of the pytest.fixture decorat
 code coverage doesn't mean that your code is perfect or that it lacks bugs. But it does give you a greater degree of confidence in the code and the fact that it has been run at least once.\
 there's a package called pytest-cov on PyPI that you can download and install. Once that's done, you can invoke pytest with the --cov option. If you don't say anything more than that, you'll get a coverage report for every part of the Python library that your program used
 
-
+[Back to main](./README.md)
 
