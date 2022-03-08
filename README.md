@@ -17,15 +17,20 @@ ___
 | Terminal  |[TerminalOperation_Notes](./Terminal_operation.md)|
 | SQL      | [SQL_Notes](./SQL.md)|
 | Mindset     | [Mindset_Notes](./Mindset.md)|
-|`if __name__ == __main__` | [special variables](./special%20_variables.md)|
+
 
 
 ___
-# *Class Read *
+## *Class Read*
 | Task  | Link |
 |----------|:-------------:|
 |Read: Class 01|[Class 01](./Read:Class01.md)|
 |Read: Class 03|[Class 03](./ReadClass03.md)|
 |Read: Class 04|[Class 04](./Read%3AClass04.md)|
-
-
+___
+## my_notes
+| Topics  | Link |
+|----------|:-------------:|
+|`if __name__ == __main__` | [special variables](./special%20_variables.md)|
+|file operation|[file operation](./file_oprtation.md)|
+|object-oriented programming(OOP)|[OOP](./OOP)|
