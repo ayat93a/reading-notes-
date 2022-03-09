@@ -27,6 +27,7 @@ ___
 |Read: Class 01|[Class 01](./Read:Class01.md)|
 |Read: Class 03|[Class 03](./ReadClass03.md)|
 |Read: Class 04|[Class 04](./Read%3AClass04.md)|
+|Read: Class 05|[Class 05](./Linked_list_big_O)
 ___
 ## my_notes
 | Topics  | Link |
