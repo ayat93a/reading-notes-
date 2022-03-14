@@ -29,6 +29,7 @@ ___
 |Read: Class 04|[Class 04](./Read%3AClass04.md)|
 |Read: Class 05|[Class 05](./Linked_list_big_O.md)
 |Read: Class 06|[Class 06](./class06.md)
+|Read: Class 07|[Class 07](./ReadClass07.md)|
 ___
 ## my_notes
 | Topics  | Link |
