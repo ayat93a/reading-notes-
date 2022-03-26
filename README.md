@@ -32,6 +32,7 @@ ___
 |Read: Class 07|[Class 07](./ReadClass07.md)|
 |Read: Class 08|[Class 08](./Class%2008.md)
 |Read: Class 09|[Class 09](./READ09.md)
+|Read: Class 10|[Class 10](./Read%3AClass_10.md)
 ___
 ## my_notes
 | Topics  | Link |
