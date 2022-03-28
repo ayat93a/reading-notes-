@@ -34,6 +34,8 @@ ___
 |Read: Class 09|[Class 09](./READ09.md)
 |Read: Class 10|[Class 10](./Read%3AClass_10.md)
 |Read: Class 11|[Class 11](./Class_11.md)
+|Read: Class 12|[Class 12](./class12.md)
+
 ___
 ## my_notes
 | Topics  | Link |
