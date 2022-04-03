@@ -35,7 +35,7 @@ ___
 |Read: Class 10|[Class 10](./Read%3AClass_10.md)
 |Read: Class 11|[Class 11](./Class_11.md)
 |Read: Class 12|[Class 12](./class12.md)
-
+|Read: Class 13|[Class 13](./CLASS13.md)
 ___
 ## my_notes
 | Topics  | Link |
