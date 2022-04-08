@@ -1,4 +1,4 @@
-Trees
+# Trees
 In this tutorial, we’ll be covering Binary Trees, Binary Search Trees, and K-ary Trees. We will review some common terminology that is shared amongst all of the trees and then dive into specifics of the different types.
 
 Basic Terminology In Tree Data Structure:
