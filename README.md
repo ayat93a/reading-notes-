@@ -39,6 +39,7 @@ ___
 |Read: Class 14|[Class 14](./Class%2014.md)
 |Read: Class 16|[Class 16](./Class16.md)
 |Read: Class 17|[Class 17](./class17.md)
+|Read: Class 26|[Class 26](./Read26.md)
 ___
 ## my_notes
 | Topics  | Link |
