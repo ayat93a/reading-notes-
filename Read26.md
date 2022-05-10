@@ -1,10 +1,10 @@
 # Getting started with Django 
 *steps to start new project*
-`pip install pipenv`
-`pipenv install django`
-`pipenv shell` or `pipenv run` to start the project
-`django-admin startproject *project name*`
-`django-admin startapp *app name*`
+- `pip install pipenv`
+- `pipenv install django`
+- `pipenv shell` or `pipenv run` to start the project
+- `django-admin startproject *project name*`
+- `django-admin startapp *app name*`
 
 # How Django Works Behind the Scenes
 Django is a Python-based web framework that is utilized by millions of developers and billions of users via apps like Instagram. It is open source, which means that the code may be downloaded for free from Github and used alongside the official documentation by any developer.
