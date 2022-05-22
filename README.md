@@ -43,7 +43,7 @@ ___
 |Read: Class 27|[Class 27](./Read27.md)
 |Read: Class 28|[Class 28](./Read28.md)
 |Read  Class 30|[HahsTable](./hashtable.md)
-___
+|Read  Class 31|[Class 31](./Class31.md)
 ## my_notes
 | Topics  | Link |
 |----------|:-------------:|
