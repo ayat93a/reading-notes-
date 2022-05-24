@@ -44,6 +44,7 @@ ___
 |Read: Class 28|[Class 28](./Read28.md)
 |Read  Class 30|[HahsTable](./hashtable.md)
 |Read  Class 31|[Class 31](./Class31.md)
+|Read  Class 32|[Class 32](./class32.md)
 ## my_notes
 | Topics  | Link |
 |----------|:-------------:|
