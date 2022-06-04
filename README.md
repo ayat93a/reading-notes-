@@ -46,6 +46,7 @@ ___
 |Read  Class 31|[Class 31](./Class31.md)
 |Read  Class 32|[Class 32](./class32.md)
 |Read  Class 33|[Class 33](./read33.md)
+|Read  Class 34|[Class 34](./Class34.md)
 ## my_notes
 | Topics  | Link |
 |----------|:-------------:|
