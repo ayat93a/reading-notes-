@@ -47,6 +47,7 @@ ___
 |Read  Class 32|[Class 32](./class32.md)
 |Read  Class 33|[Class 33](./read33.md)
 |Read  Class 34|[Class 34](./Class34.md)
+|Read  Class Graph|[Class Graph](./Graph.md)
 ## my_notes
 | Topics  | Link |
 |----------|:-------------:|
